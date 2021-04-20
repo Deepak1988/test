@@ -1,3 +1,5 @@
 hi this is used git file to used for check
 
 now add another nile for used
+
+now active my commit file and add all
